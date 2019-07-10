@@ -1,4 +1,4 @@
-## 我的配置如下：
+## 具体配置如下：
 
 | 硬件 | 型号 | 
 | - | :-: |
@@ -16,8 +16,9 @@
 
 ## 具体完善程度：
 
-安装macOS mojave 10.14
-系统版本10.14.5，设置机型为iMac Pro 1.1，硬解正常
+系统版本：macOS Mojave 10.14.5
+SMBIOS：iMac Pro 1.1
+
 ![硬解](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/hard_speed.png)
 
 WIFI正常:
