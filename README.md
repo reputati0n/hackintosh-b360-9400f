@@ -17,19 +17,26 @@
 ## 具体完善程度：
 
 系统版本：macOS Mojave 10.14.5
+
 SMBIOS：iMac Pro 1.1
+
+视频硬件解码
 
 ![硬解](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/hard_speed.png)
 
 WIFI正常:
+
 ![wifi](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/wifi.png)
 
 音频输入输出正常：
+
 ![input](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/audio-input.png?raw=true)
 ![output](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/audio-output.png)
 
 显卡免驱：
+
 ![gpu](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/gpu-rx570.png)
 
 USB端口定制：
+
 ![usb](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/usbport.png)
