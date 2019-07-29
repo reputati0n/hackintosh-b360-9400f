@@ -1,3 +1,5 @@
+[中文版](https://github.com/reputati0n/hackintosh-b360--9400f/)
+
 ## Configuration is as follows：
 
 | hardware | model | 
