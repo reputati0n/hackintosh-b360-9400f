@@ -10,9 +10,6 @@
 | 网卡 |BCM94360CS2(苹果原装卡)|
 | 显示器 |DELL P2418D 2K |
 
-## 系统截图
-
-![system](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/system_hackintosh.png)
 
 ## 具体完善程度：
 
