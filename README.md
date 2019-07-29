@@ -1,3 +1,5 @@
+[英文版](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/README_en.md)
+
 ## 具体配置如下：
 
 | 硬件 | 型号 | 
