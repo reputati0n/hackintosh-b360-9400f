@@ -15,7 +15,7 @@
 
 ## 具体完善程度：
 
-系统版本：macOS Mojave 10.14.5
+系统版本：macOS Mojave 10.14.6
 
 SMBIOS：iMac Pro 1.1
 
@@ -26,6 +26,10 @@ SMBIOS：iMac Pro 1.1
 WIFI正常:
 
 ![wifi](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/wifi.png)
+
+蓝牙正常:
+
+![blueteeth](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/blueteeth.png)
 
 音频输入输出正常：
 
