@@ -9,7 +9,7 @@
 | GPU |Sapphire AMD RX570 4G|
 | RAM |Galaxy DDR4 2400 RGB 8G*2|
 | SSD |WDblack NVme 240G|
-| WIFI |BCM94360CS2(Apple original)|
+| WIFI |DW1820A/BCM94350ZAE|
 | monitor |DELL P2418D 2K |
 
 
