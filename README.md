@@ -21,7 +21,7 @@ SMBIOS：iMac Pro 1.1
 
 视频硬件解码
 
-![硬解](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/hard_speed.png)
+![硬解](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/10.14.6hard.png)
 
 WIFI正常:
 
