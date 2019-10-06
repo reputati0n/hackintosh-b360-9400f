@@ -15,13 +15,13 @@
 
 ## Degree of perfection：
 
-System：macOS Mojave 10.14.5
+System：macOS Mojave 10.14.6
 
 SMBIOS：iMac Pro 1.1
 
 Video hardware decoding
 
-![harkware](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/hard_speed.png)
+![harkware](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/image/10.14.6hard.png)
 
 WIFI:
 
