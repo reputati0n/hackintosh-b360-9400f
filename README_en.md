@@ -1,4 +1,4 @@
-[中文版](https://github.com/reputati0n/hackintosh-b360--9400f/)
+[中文](https://github.com/reputati0n/hackintosh-b360--9400f/)
 
 ## Configuration is as follows：
 
