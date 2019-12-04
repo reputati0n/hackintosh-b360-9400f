@@ -15,7 +15,10 @@
 
 ## Degree of perfection：
 
-System：macOS Mojave 10.14.6
+System：
+
+macOS Mojave 10.14.6
+macOS Catalina 10.15
 
 SMBIOS：iMac Pro 1.1
 
