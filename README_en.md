@@ -1,5 +1,7 @@
 [中文](https://github.com/reputati0n/hackintosh-b360--9400f/)
 
+# I no longer use hackintosh, so this project is no longer updated. The 10.14 version of EFI can still be used normally, but the 10.15 version of EFI is only applicable to 10.15. 10.15.1 and later versions need to upgrade the driver and clover to the applicable version.
+
 ## Configuration is as follows：
 
 | hardware | model | 
