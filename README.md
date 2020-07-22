@@ -1,4 +1,4 @@
-# 本人弃坑黑苹果，故本项目不再更新，10.14版本EFI仍可正常使用，但10.15版本EFI仅适用于10.15，10.15.1及之后版本需自行升级驱动以及clover到适用版本。
+# 本人弃坑黑苹果，换用白果，故本项目不再更新，10.14版本EFI仍可正常使用，但10.15版本EFI仅适用于10.15，10.15.1及之后版本需自行升级驱动以及clover到适用版本。
 
 [English](https://github.com/reputati0n/hackintosh-b360--9400f/blob/master/README_en.md)
 
